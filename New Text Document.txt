@@ -1,0 +1,7 @@
+cd C:\CashExpenseServer
+.venv\Scripts\activate
+
+set APP_USERNAME=admin
+set APP_PASSWORD=Cash@2026
+set FLASK_SECRET_KEY=MyCashAppSecretKey2026
+python app.py
